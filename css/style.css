@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul>li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.hero {}
+
+.container {}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {}
+
+.logo__img {}
+
+.nav {}
+
+.nav__list {}
+
+.nav__item {}
+
+.nav__link {}
+
+.btn {}
+
+.hero__contant {}
+
+.hero__info {}
+
+.hero__headline {}
+
+.title {}
+
+.hero__desc {}
