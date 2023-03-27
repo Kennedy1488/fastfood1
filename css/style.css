@@ -96,7 +96,7 @@ img {
     font-size: 16px;
     color: #FFFFFF;
     padding: 15px 36px;
-
+    height: 53px;
 }
 
 .hero__content {
@@ -480,4 +480,30 @@ img {
     color: #FFFFFF;
 
     opacity: 0.7;
+}
+
+.DownloadOurMenu {
+    background: #312F30;
+    height: 170px;
+}
+
+
+.DownloadOurMenu__container {
+    display: flex;
+    justify-content: space-between;
+    height: 170px;
+}
+
+.DownloadOurMenu__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    margin-top: auto;
+    margin-bottom: auto;
 }
